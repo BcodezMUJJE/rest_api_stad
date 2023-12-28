@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "hands-on for creation of rest api",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BcodezMUJJE/rest_api_stad.git"
+  },
+  "author": "billbright_matege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BcodezMUJJE/rest_api_stad/issues"
+  },
+  "homepage": "https://github.com/BcodezMUJJE/rest_api_stad#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.11.0"
+  }
+}
